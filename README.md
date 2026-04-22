@@ -29,6 +29,11 @@ The system follows a standard AI pipeline: Pre-processing water sample imagery, 
 - `best_microplastic_model.pt`: Pre-trained YOLOv8 weights (optimized for microplastics).
 - `docs/`: Technical diagrams and performance reports.
 
+## 📥 Download Trained Model
+Due to GitHub's file size restrictions, the trained YOLOv8 model weights are hosted on Google Drive:
+- **[Download best_microplastic_model.pt](https://drive.google.com/file/d/1U_koZITZ2jBvrU8yZ-4GJ8o_mXsu38Us/view?usp=sharing)**
+
+*Note: Place this file in the root directory or update the path in `app.py` to run the system.*
 ---
 **Developed by Umar Ayoub**
 *Final Year Computer Science (AI) - UET Mardan*

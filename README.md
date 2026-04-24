@@ -17,10 +17,10 @@ This project is an inter-disciplinary collaboration with the **Civil Engineering
 ## 📊 Methodology & Results
 The system follows a standard AI pipeline: Pre-processing water sample imagery, performing high-precision inference, and post-processing for size estimation.
 
-*(Insert your Methodology Diagram here)*
+
 ![Methodology](docs/methodology.png)
 
-*(Insert your Results Diagram/Table here)*
+
 ![Results](docs/results_image.jpg)
 
 ## 📂 Repository Contents
